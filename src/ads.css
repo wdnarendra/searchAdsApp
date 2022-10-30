@@ -1,0 +1,11 @@
+.ads{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: contain;
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    border: solid black 3px;
+}

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b8646f4.css",
+    "main.js": "/static/js/main.43aab758.js",
+    "static/js/787.e4fcb47c.chunk.js": "/static/js/787.e4fcb47c.chunk.js",
+    "static/media/valentino.jpg": "/static/media/valentino.d3b79e73c4ed22d6854d.jpg",
+    "static/media/curulogy.jpg": "/static/media/curulogy.dd54e11afe44475f38c6.jpg",
+    "static/media/levis.jpg": "/static/media/levis.28c77311b5a163099850.jpg",
+    "static/media/normMacdonald.jpg": "/static/media/normMacdonald.e2c9ca41d0a95b024c02.jpg",
+    "static/media/purple-display-ads.jpg": "/static/media/purple-display-ads.79e0d4d88a232e8d605d.jpg",
+    "static/media/salesforce.jpg": "/static/media/salesforce.b85ae5dcfed6254de1c0.jpg",
+    "static/media/cotopaxi.jpg": "/static/media/cotopaxi.1b94003ec8149ee45d81.jpg",
+    "index.html": "/index.html",
+    "main.1b8646f4.css.map": "/static/css/main.1b8646f4.css.map",
+    "main.43aab758.js.map": "/static/js/main.43aab758.js.map",
+    "787.e4fcb47c.chunk.js.map": "/static/js/787.e4fcb47c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b8646f4.css",
+    "static/js/main.43aab758.js"
+  ]
+}
