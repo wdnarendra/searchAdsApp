@@ -1,0 +1,6 @@
+{
+    "text":"dull salesforce"
+}
+
+payload for postman api testing
+must assure that use json in raw tab of postman
